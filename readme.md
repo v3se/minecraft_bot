@@ -1,6 +1,6 @@
 # minecraft-bot
 
-Telegram bot for Minecraft Bedrock edition hosted on a dedicated server for delivering messages when player connects or disconnects from the server
+Telegram bot for Minecraft Bedrock edition hosted on a dedicated Ubuntu server for delivering messages when player connects or disconnects from the server
 
 ## Installation
 
